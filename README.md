@@ -3,5 +3,5 @@ Guida all'accesso (Privata)
 - ssh dimaria.antonino@163.192.115.36 -p 2222
 
 Link al sito
-https://w4s.filippobilardo.it/
-https://w4s.filippobilardo.it/~dimaria.antonino/NomeDelSito
+- https://w4s.filippobilardo.it/
+- https://w4s.filippobilardo.it/~dimaria.antonino/NomeDelSito
